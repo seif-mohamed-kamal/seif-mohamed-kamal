@@ -1,13 +1,25 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Seif Mohamed
+# 👋 Hey, I'm Seif Mohamed
 
-### Backend Software Engineer | Node.js & NestJS | Java & Spring Boot
+### 🚀 Backend Software Engineer | Node.js | NestJS | Java | Spring Boot
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/seif-mohamed-k1)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/seif-mohamed-kamal)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:seifmohamedwork78@gmail.com)
+**Building scalable systems • Exploring AI • Solving real-world problems**
+
+<br/>
+
+<a href="https://github.com/seif-mohamed-kamal">
+<img src="https://komarev.com/ghpvc/?username=seif-mohamed-kamal&style=for-the-badge&color=blueviolet" />
+</a>
+
+<a href="https://www.linkedin.com/in/seif-mohamed-k1">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:seifmohamedwork78@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
 📍 Cairo, Egypt | 🎓 Helwan University
 
@@ -15,101 +27,144 @@
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 
-I'm a **Backend Software Engineer** and Computer Science student passionate about building scalable, secure, and maintainable backend systems.
+I'm a **Backend Software Engineer** and Computer Science & AI student passionate about building scalable, secure, and high-performance software systems.
 
-My primary focus is **Node.js, Express.js, and NestJS**, with hands-on experience in **Java and Spring Boot**.
+My primary specialization is **Backend Development**, particularly with Node.js, Express.js, and NestJS, alongside Java and Spring Boot.
 
-I enjoy designing RESTful APIs, working with databases, implementing authentication systems, and developing microservices.
+I also have knowledge of **Python and Machine Learning fundamentals**, and I'm interested in exploring how AI can be integrated into real-world software applications.
 
-- 🔭 Focused on Backend Engineering and System Design.
-- 🧩 Experienced with Node.js, NestJS, Express.js, and Spring Boot.
-- 🗄️ Databases: MongoDB, MySQL, Redis.
-- 🔐 Interested in API security, microservices, and scalable architecture.
-- 🌱 Exploring AI and Cloud Technologies.
-- 🤝 Open to backend opportunities and collaboration.
+I enjoy understanding how systems work behind the scenes, designing efficient architectures, solving challenging problems, and continuously improving my engineering skills.
 
----
+### 🎯 What I'm focused on
 
-## 🛠️ Technology Stack
-
-**Languages**
-
-![JavaScript](https://skillicons.dev/icons?i=js,ts,java,cpp,python)
-
-**Backend**
-
-![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,spring)
-
-**Databases**
-
-![Databases](https://skillicons.dev/icons?i=mongodb,mysql,redis)
-
-**Tools & DevOps**
-
-![Tools](https://skillicons.dev/icons?i=docker,aws,kafka,git,github,postman,graphql)
+- ⚙️ Building scalable backend applications and RESTful APIs.
+- 🏗️ Learning System Design, Software Architecture, and Microservices.
+- 🔐 Developing secure authentication and authorization systems.
+- 🗄️ Database design, caching, and performance optimization.
+- 🤖 Exploring Machine Learning and AI with Python.
+- 🧠 Improving Data Structures, Algorithms, and Problem Solving.
 
 ---
 
-## 💡 Core Backend Skills
+## 🧰 My Technical Arsenal
 
-| Category | Skills |
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp"/>
+</p>
+
+### ⚙️ Backend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring"/>
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+`Python` · `Machine Learning Fundamentals` · `AI Concepts`
+
+### 🗄️ Databases & Caching
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis"/>
+</p>
+
+### ☁️ Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,kafka,git,github,postman,graphql"/>
+</p>
+
+---
+
+## 🧠 Engineering Skills
+
+| Domain | Technologies & Concepts |
 |---|---|
-| API Development | REST APIs, GraphQL, Validation |
+| Backend | Node.js, Express.js, NestJS, Spring Boot |
+| Programming | JavaScript, TypeScript, Java, Python, C++ |
+| API Development | REST APIs, GraphQL, WebSockets |
 | Architecture | Clean Architecture, Microservices, BFF |
 | Security | JWT, RBAC, Authentication, Authorization |
-| Databases | MongoDB, MySQL, SQL, Mongoose |
+| Databases | MongoDB, MySQL, SQL, Mongoose, Sequelize |
 | Performance | Redis, Caching, Optimization |
-| Java Backend | Java, Spring Boot, WebFlux |
-| Real-time | Socket.IO, Real-time Communication |
-| Tools | Docker, Git, Kafka, Swagger, Postman |
+| Real-time Systems | Socket.IO, Real-time Communication |
+| AI & ML | Python, Machine Learning Fundamentals |
+| DevOps | Docker, Kafka, Git, AWS Basics, CI/CD |
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-- **Freelance Backend Developer:** Developed Node.js APIs, authentication, database models, Redis caching, and email/file upload services.
-- **Route — Node.js Backend Trainee:** Practical experience with Node.js, Express, TypeScript, MongoDB, MySQL, and REST APIs.
-- **Ejada — Backend Intern:** Worked with Java, Spring Boot, microservices, Docker, and CI/CD fundamentals.
+- **Freelance Backend Developer:** Developing RESTful APIs, authentication systems, database models, Redis caching, file uploads, and email integrations.
+- **Route — Node.js Backend Trainee:** Hands-on backend development using Node.js, Express, TypeScript, MongoDB, MySQL, and Redis.
+- **Ejada — Backend Developer Intern:** Exposure to Java, Spring Boot, Microservices, Docker, and CI/CD practices.
 
 ---
 
 ## 🎓 Education & Achievements
 
-- 🎓 Helwan University — Faculty of Computer Science and AI.
-- 📊 GPA: **3.78**
-- 🏆 Top Performing Student — DEPI 2025.
-- 📜 Route — Node.js Backend Development.
-- 📜 Ejada — Enterprise System Integration.
-- 📜 DEPI — React Frontend Development.
+🎓 **Helwan University**  
+Faculty of Computer Science and Artificial Intelligence
+
+📊 GPA: **3.78**
+
+🏆 **Top Performing Student — DEPI 2025**
+
+### 📜 Training & Certifications
+
+- Node.js Backend Development — Route
+- Enterprise System Integration — Ejada
+- React Frontend Development — DEPI
+- English Track — SYE Program
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=seif-mohamed-kamal&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=seif-mohamed-kamal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seif-mohamed-kamal&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seif-mohamed-kamal&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br/>
+<br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=seif-mohamed-kamal&theme=tokyonight&hide_border=true" />
+<img width="75%" src="https://streak-stats.demolab.com?user=seif-mohamed-kamal&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=seif-mohamed-kamal&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Let's Connect!
 
-- 📧 Email: seifmohamedwork78@gmail.com
-- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/seif-mohamed-k1)
-- 🐙 GitHub: [My GitHub](https://github.com/seif-mohamed-kamal)
+I'm always open to connecting with developers, exchanging ideas, learning new technologies, and collaborating on interesting projects.
 
 <div align="center">
 
-### 💻 Building reliable systems, one API at a time.
+<a href="mailto:seifmohamedwork78@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's_Talk-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/seif-mohamed-k1">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<br/><br/>
+
+### ⚡ "Turning ideas into scalable software."
+
+⭐ Thanks for visiting my profile!
 
 </div>
