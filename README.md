@@ -3,7 +3,7 @@
 
 # 👋 Hey, I'm Seif Mohamed
 
-### 🚀 Backend Software Engineer | Node.js | NestJS | Java | Spring Boot
+### 🚀 Backend Software Engineer
 
 **Building scalable systems • Exploring AI • Solving real-world problems**
 
