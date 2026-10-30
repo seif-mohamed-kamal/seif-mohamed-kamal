@@ -10,7 +10,7 @@
 <br/>
 
 <a href="https://github.com/seif-mohamed-kamal">
-<img src="https://komarev.com/ghpvc/?username=seif-mohamed-kamal&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/seif-mohamed-k1">
